@@ -1,6 +1,7 @@
 # House-Price-Predict-
 https://www.kaggle.com/datasets/camnugent/california-housing-prices
-Housing Price Prediction Project
+
+**Housing Price Prediction Project
 This project focuses on building an end-to-end machine learning pipeline to predict housing prices. Through rigorous exploratory data analysis (EDA), advanced feature engineering, and model optimization, we successfully handled non-linear relationships and high skewness to deliver an accurate predictive model.
 
 🚀 Key Project Steps & Methodology
